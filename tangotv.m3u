@@ -25,9 +25,9 @@ https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8
 https://mumt02.tangotv.in/99TVTELUGU/index.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aadinath-TV-Transparent.png",Aadinath TV
 https://mumt01.tangotv.in/AADINATHTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj-ki-khabar-in.png",Aaj Ki Khabar [Link 1]
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj-ki-khabar-in.png",Aaj Ki Khabar
 https://mumt03.tangotv.in/AAJKIKHABAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj-ki-khabar-in.png",Aaj Ki Khabar [Link 2]
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj-ki-khabar-in.png",Aaj Ki Khabar
 https://mumt04.tangotv.in/AAJKIKHABAR/index.m3u8
 #EXTINF:-1 tvg-logo="",Aakaash Aath
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
@@ -403,6 +403,8 @@ https://mumt01.tangotv.in/MAKKALTV/index.m3u8
 https://mumt04.tangotv.in/MALAIMURASUSEITHIGAL/index.m3u8
 #EXTINF:-1 tvg-logo="",Malar TV
 https://mumt04.tangotv.in/MALARTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Mandir TV
+https://mumt05.tangotv.in/MANDIRTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Manoranjan Grand
 https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8
 #EXTINF:-1 tvg-logo="",Manoranjan Movies
