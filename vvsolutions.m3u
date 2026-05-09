@@ -29,11 +29,15 @@ https://vvsolutions.in/ctvnews/ctvnews.m3u8
 https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqRJ8Zt0/1000149133.png" group-title="Telugu",KS TV
 https://vvsolutions.in/lmc/lmc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",K Times TV
+https://vvsolutions.in/ktimes/ktimes.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telugu",Siti Cable News Tandur
 https://vvsolutions.in/cabletandur/cabletandur.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v431ZPKg/1000153289.png" group-title="Telugu",Sree News
 https://vvsolutions.in/sreenews/sreenews.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqJ08ZpR/1000153310.png" group-title="Telugu",TV8 News
 https://vvsolutions.in/tv8news/tv8news.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",YJ TV
+https://vvsolutions.in/yjtv/yjtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p63fwxkY/1000151066.png" group-title="Telugu",YSR TV
 https://vvsolutions.in/ysrtv/ysrtv.m3u8
