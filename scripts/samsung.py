@@ -27,6 +27,6 @@ for region in regioncodes:
             g.write(f"{line}\n")
 
     g.close()
-
-    pathlib.Path.unlink(f"samsung_{region}.xml")
+    xml = pathlib.Path(f"samsung_{region}.xml")
+    xml.Path.unlink()
 
