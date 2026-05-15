@@ -22,7 +22,7 @@ for region in regioncodes:
         playlist.append(f'#EXTINF:-1 tvg-id="{chnlid}" tvg-name="{name}" tvg-logo="{ico}",{name}')
         playlist.append(f'https://jmp2.uk/stvp-{chnlid}')
 
-    with open(f'/samsungtvplus/{region}.m3u', 'w') as g:
+    with open(f'./samsungtvplus/{region}.m3u', 'w') as g:
         for line in playlist:
             g.write(f"{line}\n")
 
