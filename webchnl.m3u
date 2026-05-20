@@ -33,8 +33,14 @@ https://mci01.nive.live/13/index.m3u8
 #KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="webchnl" radio="true",Whiplash FM
 #https://haus.webchnl.com/memfs/ab193305-dd2b-423b-a5d6-867fe68b8750.m3u8
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:http-reconnect=true
+#EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="webchnl" radio="true",Whiplash FM
+https://drop.oqua.tv/listen/wlfm/radio.mp3
 #EXTINF:-1 tvg-id="yub" tvg-name="Yub Network" tvg-logo="https://webchnl.com/assets/img/channelicons/yub.png" group-title="webchnl",Yub Network
 https://stream.oqua.tv/live/Yub/master.m3u8
+#EXTINF:-1 tvg-id="yub" tvg-name="Yub Network" tvg-logo="https://webchnl.com/assets/img/channelicons/yub.png" group-title="webchnl",Yub Network (nive.live)
+https://mci01.nive.live/17/index.m3u8
 #EXTINF:-1 tvg-id="znth" tvg-name="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png" group-title="webchnl",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://webchnl.com/assets/img/channelicons/2x2.png" group-title="webchnl",2x2_english
@@ -43,5 +49,7 @@ https://twitch-m3u8.bastypro112.workers.dev/2x2_english/index.m3u8
 https://twitch-m3u8.bastypro112.workers.dev/kaspertivi/index.m3u8
 #EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extras
 https://twitch-m3u8.bastypro112.workers.dev/backupextras/index.m3u8
+#EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extras (nive.live)
+https://mci01.nive.live/8/index.m3u8
 #EXTINF:-1 tvg-id="boomerangreborn" tvg-name="Boomerang Reborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="webchnl",Boomerang Reborn
 https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
