@@ -44,7 +44,7 @@ for i in jsonresp['response']['data']:
     path = channel_data['target']['path']
     epg = channel_data['id']
     name = channel_data['display']['title']
-    logo = channel_data['display']['imageUrl'].replace("common,", "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/")
+    logo = channel_data['display']['imageUrl'].replace("common,", "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/")
     playlist.append(f'#EXTINF:-1 tvg-id="{epg}" tvg-chno="{epg}" tvg-name="{name}" tvg-logo="{logo}",{epg} {name}')
     encodedpath = urllib.parse.quote_plus(path)
     resp = urllib3.request(
