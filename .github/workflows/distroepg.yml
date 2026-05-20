@@ -35,7 +35,7 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Playlist auto-updated on $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Guide auto-updated on $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
 
       - name: Pull latest changes from remote
         run: git pull origin main --rebase
