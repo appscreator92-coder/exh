@@ -2,7 +2,7 @@ name: Generate Whiplash EPG
 
 on:
   schedule:
-    - cron: '0.1/5 * * * *'  # Runs every 5 minutes, starting at 0.1 minutes past the hour
+    - cron: '1/5 * * * *'  # Runs every 5 minutes, starting at 0.1 minutes past the hour
   push:
     branches:
       - main  # Runs on push to the main branch
