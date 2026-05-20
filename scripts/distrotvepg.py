@@ -66,7 +66,7 @@ with open('./epg/distrotv.xml', 'w', newline='', encoding="utf-8") as f:
         f.write(f'{lines}\n')
 f.close()
 
-with gzip.open('./epg/distrotv.xml.gz', 'w') as g:
+with gzip.open('./epg/distrotv.xml.gz', 'wb') as g:
     for lines in xmltv:
-        g.write(f'{lines}\n')
+        g.write(f'{lines}')
 g.close()
