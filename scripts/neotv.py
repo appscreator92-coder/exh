@@ -25,7 +25,7 @@ for i in resp['data']['items']:
     playlist.append(f'#EXTINF:-1 tvg-id="{epg}" tvg-chno="{chno}" tvg-name="{name}" tvg-logo="{logo}" group-title="{genre}",{name}')
     playlist.append(url)
 
-with open('neotv.m3u', 'w', newline='') as f:
+with open('./neotv.m3u', 'w', newline='') as f:
     for lines in playlist:
         f.write(f'{lines}\n')
 
