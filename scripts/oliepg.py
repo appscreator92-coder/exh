@@ -26,7 +26,7 @@ for type_tag in epgroot.findall('programme'):
     start = type_tag.get("start")
     stop = type_tag.get("stop")
     prog = ET.SubElement(root, 'programme')
-    prog.set('channel', epgid)
+    prog.set('channel', "OLI TV")
     prog.set('start', start)
     prog.set('stop', stop)
     progtitle = ET.SubElement(prog, 'title')
