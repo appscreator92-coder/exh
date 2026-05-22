@@ -120,11 +120,11 @@ for i in epgs:
 
 xml_data = ET.tostring(root)
 
-with open('neotv.xml', 'wb') as f:
+with open('./epg/neotv.xml', 'wb') as f:
     f.write(xml_data)
     print("Exported!")
 f.close()
 
-with gzip.open('neotv.xml.gz', 'wb') as g:
+with gzip.open('./epg/neotv.xml.gz', 'wb') as g:
     g.write(xml_data)
 g.close()
