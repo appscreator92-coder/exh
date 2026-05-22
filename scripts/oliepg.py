@@ -39,11 +39,11 @@ xml.unlink()
 
 xml_data = ET.tostring(root)
 
-with open('olitv.xml', 'wb') as f:
+with open('./epg/olitv.xml', 'wb') as f:
     f.write(xml_data)
     print("Exported!")
 f.close()
 
-with gzip.open('olitv.xml.gz', 'wb') as g:
+with gzip.open('./epg/olitv.xml.gz', 'wb') as g:
     g.write(xml_data)
 g.close()
