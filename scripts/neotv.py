@@ -9,7 +9,7 @@ resp = test.json()
 for i in resp['data']['items']:
     stringdata = json.dumps(i, indent=4)
     channel_data = json.loads(stringdata)
-    if channel_data['epg'] != None or ".php" not in channel_data['epg']:
+    if channel_data['epg'] != None and ".php" not in channel_data['epg']:
         epg = channel_data['epg'].replace('https://epg.neotvapp.com/','').replace('.xml','').replace('%20',' ').replace('%26', '&amp;')
     elif "oli" in channel_data['epg']:
         epg = "OLI TV"
