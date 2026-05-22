@@ -8,8 +8,7 @@ from lxml import etree
 import gzip
 
 test = urllib3.request("GET",
-                       "https://livetv.neotvapp.com/wp-admin/admin-ajax.php?action=livetv_get_channels",
-                       headers={"Cookie": "_ga=GA1.1.1376928148.1777376187; _ga_32WEG1HCMW=GS2.1.s1779437793$o2$g0$t1779437793$j60$l0$h0; _ga_JED830QNRY=GS2.1.s1779437793$o2$g0$t1779437793$j60$l0$h0"})
+                       "https://livetv.neotvapp.com/wp-admin/admin-ajax.php?action=livetv_get_channels")
 
 resp = test.json()
 root = ET.Element('tv')
@@ -23,7 +22,10 @@ for i in resp['data']['items']:
     if channel_data['epg'] != None and ".php" not in channel_data['epg']:
         epg = channel_data['epg']
     else:
-        epg = ""
+        if "oli" in channel_data['epg']:
+            epg = channel_data['epg']
+        else:
+            epg = ""
     epgs.append(epg)
     chno = channel_data['sort_value']
     name = channel_data['channel_name']
@@ -77,14 +79,50 @@ for i in epgs:
 
             xml = pathlib.Path(f"{epgid}.xml")
             xml.unlink()
+    else:
+        if "oli" in i:
+            epgid = "OLI TV"
+            resp = urllib3.request("GET", i)
+            with open(f'{epgid}.xml', 'wb') as f:
+                f.write(resp.data)
+            with open(f'{epgid}.xml', 'r', encoding="utf-8-sig") as f:
+                raw = f.read()
+            clean = html.unescape(raw)
+            epgroot = ET.fromstring(clean, parser=etree.XMLParser(recover=True,encoding='utf-8'))
+            chnl = ET.SubElement(root, 'channel')
+            chnl.set('id',epgid)
+            dspl = ET.SubElement(chnl, 'display-name')
+            icon = ET.SubElement(chnl, 'icon')
+            dspl.text = titles[epgs.index(i)]
+            icon.set('src', logos[epgs.index(i)])
+
+            for type_tag in epgroot.findall('programme'):
+                title = type_tag.find('title').text
+                desctag = type_tag.find('desc')
+                if desctag != None:
+                    desc = desctag.text
+                else:
+                    desc = ""
+                stop = type_tag.get("stop")
+                prog = ET.SubElement(root, 'programme')
+                prog.set('channel', epgid)
+                prog.set('start', start)
+                prog.set('stop', stop)
+                progtitle = ET.SubElement(prog, 'title')
+                progtitle.text = title
+                progdesc = ET.SubElement(prog, 'desc')
+                progdesc.text = desc
+
+            xml = pathlib.Path(f"{epgid}.xml")
+            xml.unlink()
 
 xml_data = ET.tostring(root)
 
-with open('./epg/neotv.xml', 'wb') as f:
+with open('neotv.xml', 'wb') as f:
     f.write(xml_data)
     print("Exported!")
 f.close()
 
-with gzip.open('./epg/neotv.xml.gz', 'wb') as g:
+with gzip.open('neotv.xml.gz', 'wb') as g:
     g.write(xml_data)
 g.close()
