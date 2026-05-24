@@ -22,7 +22,7 @@ for i in range(1, 106):
         "language": "",
         "allowPastEvents": "true",
         "dataSize": "large",
-        "pageNum": i
+        "pageNum": i,
         "date": datetime.now().strftime("%d/%m/%Y")
     })
     test = http.request("POST",
