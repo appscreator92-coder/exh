@@ -19,7 +19,7 @@ resp = urllib3.request("GET",
 json = resp.json()
 channellist = json['data']
 for i in channellist:
-    if "DISTROTV" not in i['id'] and "AAJTAK" not in i['id'] and "HOTSTAR" not in i['id'] and ("TIMESPLAY" not in i['id'] and i['id'] != "TIMESPLAY_LIVECHANNEL_channel_20"):
+    if "DISTROTV" not in i['id'] and "AAJTAK" not in i['id'] and "HOTSTAR" not in i['id'] and ("TIMESPLAY" not in i['id'] and i['id'] == "TIMESPLAY_LIVECHANNEL_channel_20"):
         if 'LOGO_HD' in i['images']:
             ico = i['images']['LOGO_HD']
         elif 'LOGO' in i['images']:
