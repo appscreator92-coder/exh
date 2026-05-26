@@ -59,8 +59,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-656237c55dbccec83a87b649" tvg-name="Mutant X" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png",Mutant X
 https://jmp2.uk/plex-643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
-https://jmp2.uk/plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6490e17c18a55242eea95991" tvg-name="Cine Friki" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e8b55ca-ef52-42c6-8390-45b1561f3d15/CINE_FRIKI_-_Logo_blanc_1500x1000_-_JC_DERSOIR.png",Cine Friki
 https://jmp2.uk/plex-643054b1fc3be59477853717-6490e17c18a55242eea95991.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66840707cd6f1d3940941153" tvg-name="Curro Jimenez" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69a3e9ee-ac42-4afd-970d-f8c7a7caad63/Runtime_ES_Curro_Jimenez_Dark_Mode_Logordx.png",Curro Jimenez
@@ -181,6 +179,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-639ba57d3f4612cc150a5723.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-67a1a8ef2358ef4dd5c3018e.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-682d0bc9363625fa508aef43" tvg-name="Nature Time" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2264f961-88d5-46c6-a987-9d5dd7a15d69/NATURE_TIMEWHITE_LOGO.png",Nature Time
 https://jmp2.uk/plex-643054b1fc3be59477853717-682d0bc9363625fa508aef43.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
+https://jmp2.uk/plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66841b30702b9db9f8177258" tvg-name="Runtime Clásicos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8019022a-2401-4d51-990c-fdf0f5ac1f54/Runtime_ES_Clasicos_Dark_Mode_Logordx.png",Runtime Clásicos
 https://jmp2.uk/plex-643054b1fc3be59477853717-66841b30702b9db9f8177258.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",Billiard TV

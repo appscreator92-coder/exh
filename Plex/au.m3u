@@ -65,8 +65,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-68e032fd8bbd79d66c631ab0.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-66469eecdad45e1759c1c06b.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-671ab65359ad9a223f0a5dc3" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png",American Crime Channel
 https://jmp2.uk/plex-697140a85d851f5e69414688-671ab65359ad9a223f0a5dc3.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
-https://jmp2.uk/plex-697140a85d851f5e69414688-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-699df4b5c8471b688891fa3c" tvg-name="Tiny House Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/22609739-de99-47f8-80cc-02cd3f605d70/Tiny_House_Nation_Logo_STACKED_COLOR_RDX.png",Tiny House Nation
 https://jmp2.uk/plex-697140a85d851f5e69414688-699df4b5c8471b688891fa3c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-67c2496d45ae99120c071588" tvg-name="Life Down Under" tvg-logo="https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",Life Down Under
@@ -417,6 +415,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-621671d05abdd3d5556a1baf.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-654eb862dde2222e8ba551f1.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",Fight Network
 https://jmp2.uk/plex-697140a85d851f5e69414688-606605549dbfca002d2ae877.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
+https://jmp2.uk/plex-697140a85d851f5e69414688-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6533e9b1df3ccc650a965646" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7eaa4b-57dd-43dd-80b7-55161ce05135/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png",Adventure Earth
 https://jmp2.uk/plex-697140a85d851f5e69414688-6533e9b1df3ccc650a965646.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",ITV Deportes

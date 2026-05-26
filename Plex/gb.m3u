@@ -153,6 +153,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-63f914bffe2c3d32e1a7929f.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-64f101b1c4b308f2fe3e7c0c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68e032fd8bbd79d66c631ab0" tvg-name="Relic Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e7d9a4d-b050-4f83-979a-bbdf4d618198/FilmRise_RelicHunter_Logo_Color.png",Relic Hunter
 https://jmp2.uk/plex-64305451fc3be5947773c339-68e032fd8bbd79d66c631ab0.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86e" tvg-name="FilmRise Free Series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d16da0ef-6eb2-4013-8fe3-09d800303cd7/FilmRise_FreeSeries_1500x1000_logo_light.png",FilmRise Free Series
+https://jmp2.uk/plex-64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86e.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-699df4b5c8471b688891fa3c" tvg-name="Tiny House Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/22609739-de99-47f8-80cc-02cd3f605d70/Tiny_House_Nation_Logo_STACKED_COLOR_RDX.png",Tiny House Nation
 https://jmp2.uk/plex-64305451fc3be5947773c339-699df4b5c8471b688891fa3c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png",Great British Menu
@@ -215,8 +217,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69bb1f002028859eafc637e1.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6448ba1baf92c31f4a190c27.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69dff98d8f56ee84eaa009a1" tvg-name="60 Days In Jail" tvg-logo="https://provider-static.plex.tv/epg/cms/production/723258d2-8b1f-439c-938b-7a8f0f31195d/60_Days_In_Jail_channel_logo_dark_1500x1000WHT_RDX.png",60 Days In Jail
 https://jmp2.uk/plex-64305451fc3be5947773c339-69dff98d8f56ee84eaa009a1.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86e" tvg-name="FilmRise Free Series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d16da0ef-6eb2-4013-8fe3-09d800303cd7/FilmRise_FreeSeries_1500x1000_logo_light.png",FilmRise Free Series
-https://jmp2.uk/plex-64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86e.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f6b8e7900b0950040d0f2b2" tvg-name="The World Poker Tour" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",The World Poker Tour
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f6b8e7900b0950040d0f2b2.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-65e17b53d581830d25124e21" tvg-name="CBS News United Kingdom" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ebc60563-a74c-438d-b1a0-6c96cf07a8fa/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",CBS News United Kingdom
@@ -409,8 +409,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-60d4edd8b2fdec002c14112f.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-66bfb2e6144c201b8b61c10f.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-671ab65359ad9a223f0a5dc3" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png",American Crime Channel
 https://jmp2.uk/plex-64305451fc3be5947773c339-671ab65359ad9a223f0a5dc3.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
-https://jmp2.uk/plex-64305451fc3be5947773c339-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png",Galxy TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-621672e42c2627c068e73ad8.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f0641d3e8ffda004033b16e" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",The Design Network
@@ -451,6 +449,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-62ffc5cfa6cad6f2991745c2.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-68e0388d8bbd79d66c631ab4.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",Surf Cinema
 https://jmp2.uk/plex-64305451fc3be5947773c339-656fbbd6dbcce28c3a41741b.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
+https://jmp2.uk/plex-64305451fc3be5947773c339-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f0ff263d71dcb00449ec021" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png",People are Awesome
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f0ff263d71dcb00449ec021.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68b9f334fc12601028c5651e" tvg-name="World Billiards TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png",World Billiards TV
