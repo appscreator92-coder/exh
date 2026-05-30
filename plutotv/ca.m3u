@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml.gz"
-#EXTINF:-1 tvg-id="69b83e4169056557a9252f61" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/69b83e4169056557a9252f61/colorLogoPNG_1773682310878.png",Hit Sitcoms
-https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8
 #EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="62ea3c2e4823db00072788ed" tvg-name="Pluto TV Action Movies" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",Pluto TV Action Movies
@@ -23,6 +21,8 @@ https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
 https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 tvg-id="62fb6d4308f5ec0007453c09" tvg-name="Christmas 365" tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png",Christmas 365
 https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
+#EXTINF:-1 tvg-id="69b83e4169056557a9252f61" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/69b83e4169056557a9252f61/colorLogoPNG_1773682310878.png",Hit Sitcoms
+https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8
 #EXTINF:-1 tvg-id="62f4f90e39183b000769f12b" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",Frasier
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-id="62bdb7f0db2eb30007376d4d" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png",Cheers
@@ -291,7 +291,7 @@ https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
 https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8
 #EXTINF:-1 tvg-id="6540ff2d770cf1000866b90a" tvg-name="Modern Marvels" tvg-logo="https://images.pluto.tv/channels/6540ff2d770cf1000866b90a/colorLogoPNG.png",Modern Marvels
 https://jmp2.uk/plu-6540ff2d770cf1000866b90a.m3u8
-#EXTINF:-1 tvg-id="64e89cfc9c1e3900084ca663" tvg-name="Real Disaster Channel" tvg-logo="https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/colorLogoPNG.png",Real Disaster Channel
+#EXTINF:-1 tvg-id="64e89cfc9c1e3900084ca663" tvg-name="Mayday: Air Disaster" tvg-logo="https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/colorLogoPNG_1780053268519.png",Mayday: Air Disaster
 https://jmp2.uk/plu-64e89cfc9c1e3900084ca663.m3u8
 #EXTINF:-1 tvg-id="62cbef9ebb857100072fc187" tvg-name="Global News National" tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png",Global News National
 https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
@@ -357,8 +357,6 @@ https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 https://jmp2.uk/plu-62e92967cd663f0007e604fd.m3u8
 #EXTINF:-1 tvg-id="67b4b8b47d8025b1610a0a57" tvg-name="The Martha Stewart Channel" tvg-logo="https://images.pluto.tv/channels/67b4b8b47d8025b1610a0a57/colorLogoPNG.png",The Martha Stewart Channel
 https://jmp2.uk/plu-67b4b8b47d8025b1610a0a57.m3u8
-#EXTINF:-1 tvg-id="62ea459c8d467f0007fbec86" tvg-name="The Emeril Lagasse Channel" tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png",The Emeril Lagasse Channel
-https://jmp2.uk/plu-62ea459c8d467f0007fbec86.m3u8
 #EXTINF:-1 tvg-id="62bdb75c3afd1200079146a6" tvg-name="Nick Jr. Pluto TV" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="62e951258a26d40007b3034c" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png",Dora TV
