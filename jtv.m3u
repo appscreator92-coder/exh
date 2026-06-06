@@ -2605,3 +2605,5 @@ http://103.159.180.34:5001/live/3555.m3u8
 http://103.159.180.34:5001/live/3556.m3u8
 #EXTINF:-1 tvg-id="3557" tvg-name="Lokmat Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Lokmat Bharat
 http://103.159.180.34:5001/live/3557.m3u8
+#EXTINF:-1 tvg-id="3562" tvg-name="Akhon Kolkata Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/debjit.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Akhon Kolkata Plus
+http://103.159.180.34:5001/live/3562.m3u8
