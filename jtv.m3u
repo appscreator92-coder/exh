@@ -2605,5 +2605,11 @@ http://103.159.180.34:5001/live/3555.m3u8
 http://103.159.180.34:5001/live/3556.m3u8
 #EXTINF:-1 tvg-id="3557" tvg-name="Lokmat Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png" tvg-language="Hindi" group-title="News", Lokmat Bharat
 http://103.159.180.34:5001/live/3557.m3u8
+#EXTINF:-1 tvg-id="3558" tvg-name="ETV News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png" tvg-language="Telugu" group-title="News", ETV News
+http://103.159.180.34:5001/live/3558.m3u8
+#EXTINF:-1 tvg-id="3561" tvg-name="ETV Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" tvg-language="Telugu" group-title="Entertainment", ETV Comedy
+http://103.159.180.34:5001/live/3561.m3u8
 #EXTINF:-1 tvg-id="3562" tvg-name="Akhon Kolkata Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/debjit.png" tvg-language="Bengali" group-title="Entertainment", Akhon Kolkata Plus
 http://103.159.180.34:5001/live/3562.m3u8
+#EXTINF:-1 tvg-id="3563" tvg-name="Pure Pink" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PurePink.png" tvg-language="Hindi" group-title="Entertainment", Pure Pink
+http://103.159.180.34:5001/live/3563.m3u8
